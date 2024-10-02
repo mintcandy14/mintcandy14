@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mintcandy14 
+- 👋 Hi
 - 👀 I’m interested in learning new things ...
 - 🌱 I’m currently learning python..
 
